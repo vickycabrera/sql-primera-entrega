@@ -1,4 +1,4 @@
-```markdown
+
 # Proyecto: Desarrollo de Base de Datos para Ecommerce B2C de Productos Físicos
 
 ## Introducción
@@ -30,7 +30,7 @@ Seguridad: Medidas de seguridad para proteger la información personal y financi
 Gestión de inventario: Un sistema para llevar un control eficiente del stock de productos disponibles.
 
 Logística y envío: Coordinación de la entrega de productos al cliente, incluyendo opciones de envío, seguimiento y gestión de devoluciones.
-```
+
 
 **Diagrama entidad relación simple:**
 
