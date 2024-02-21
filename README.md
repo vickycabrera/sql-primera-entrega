@@ -18,3 +18,5 @@ La falta de una base de datos optimizada puede generar problemas como tiempos de
 El proyecto se basa en la implementación de un modelo de negocio centrado en la tecnología de la información. Se ofrecerá a las empresas de ecommerce una solución personalizada de base de datos, adaptada a sus necesidades específicas. El modelo se sustenta en un esquema de suscripción mensual, proporcionando actualizaciones continuas, soporte técnico y mejoras adaptadas a la evolución del negocio del cliente. Además, se explorarán oportunidades de crecimiento mediante servicios complementarios, como análisis de datos y consultoría especializada.
 
 Este proyecto no solo busca resolver los problemas actuales de gestión de datos, sino también posicionarse como un socio estratégico que evoluciona junto con las demandas dinámicas del comercio electrónico moderno.
+
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNzMnGWk=/?moveToViewport=-6737,-2141,5663,2591&embedId=225312626826" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
