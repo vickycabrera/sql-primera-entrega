@@ -21,5 +21,5 @@ Este proyecto no solo busca resolver los problemas actuales de gestión de datos
 
 ![Diagrama entidad relación del ecommerce]
 (ecommerce-ERD-1.jpg)
-
+![Diagrama entidad relación del ecommerce](/ecommerce-ERD-1.jpg?raw=true "Optional Title")
 
