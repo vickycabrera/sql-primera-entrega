@@ -19,4 +19,3 @@ El proyecto se basa en la implementación de un modelo de negocio centrado en la
 
 Este proyecto no solo busca resolver los problemas actuales de gestión de datos, sino también posicionarse como un socio estratégico que evoluciona junto con las demandas dinámicas del comercio electrónico moderno.
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVNzMnGWk=/?moveToViewport=-6737,-2141,5663,2591&embedId=225312626826" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
