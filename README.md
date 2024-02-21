@@ -19,3 +19,4 @@ El proyecto se basa en la implementación de un modelo de negocio centrado en la
 
 Este proyecto no solo busca resolver los problemas actuales de gestión de datos, sino también posicionarse como un socio estratégico que evoluciona junto con las demandas dinámicas del comercio electrónico moderno.
 
+<span>![</span><span>Diagrama entidad relación del ecommerce/span><span>]</span><span>(</span><span>https://raw.githubusercontent.com/vickycabrera/sql-primera-entrega/main/ecommerce-ERD-1.jpg</span><span>)</span>
