@@ -15,21 +15,22 @@ En el contexto actual del comercio electrónico B2C (Business to Consumer), la p
 La falta de una base de datos optimizada puede generar problemas como tiempos de carga prolongados, dificultades en la búsqueda de productos y errores en la gestión de inventario específicos para la venta minorista de productos físicos. Estas deficiencias no solo afectan la experiencia del cliente, sino que también impactan negativamente en la eficiencia interna y la capacidad de la empresa para adaptarse rápidamente a las demandas del mercado minorista.
 
 ## Modelo de Negocio
-El proyecto se basa en la implementación de un modelo de negocio centrado en la tecnología de la información para ecommerce B2C. Las plataformas de ecommerce proporcionan a los usuarios la capacidad de explorar productos, comparar precios, realizar pedidos y realizar pagos en línea. Estas plataformas pueden variar en tamaño y complejidad, desde pequeñas tiendas en línea hasta grandes marketplaces que ofrecen una amplia gama de productos.
+El proyecto se basa en la implementación de un modelo de negocio centrado en la tecnología de la información para ecommerce B2C. La misma proporcionará a los usuarios la capacidad de explorar productos, comparar precios, realizar pedidos y realizar pagos en línea. El modelo de negocio esta pensado para una plataforma de tamaño y complejidad media, ofreciendo una amplia gama de productos.
 
-### Algunos de los elementos clave de un ecommerce incluyen:
+### Algunos de sus elementos clave:
 
-Catálogo de productos: Una lista completa de productos o servicios disponibles para la venta, con descripciones, imágenes y precios.
+* **Catálogo de productos:** Una lista completa de productos o servicios disponibles para la venta, con descripciones, imágenes y precios.
 
-Carrito de compras: Una funcionalidad que permite a los usuarios agregar productos a su "carrito" virtual y luego proceder al proceso de pago.
+* **Carrito de compras:** Una funcionalidad que permite a los usuarios agregar productos a su "carrito" virtual y luego proceder al proceso de pago.
 
-Proceso de pago: La capacidad de realizar transacciones seguras en línea, utilizando métodos de pago como tarjetas de crédito, transferencias bancarias, o plataformas de pago electrónico.
+* **Proceso de pago:** La capacidad de realizar transacciones seguras en línea, utilizando métodos de pago como tarjetas de crédito, transferencias bancarias, o plataformas de pago electrónico.
 
-Seguridad: Medidas de seguridad para proteger la información personal y financiera de los clientes durante el proceso de compra.
+* **Seguridad:** Medidas de seguridad para proteger la información personal y financiera de los clientes durante el proceso de compra.
 
-Gestión de inventario: Un sistema para llevar un control eficiente del stock de productos disponibles.
+* **Gestión de inventario:** Un sistema para llevar un control eficiente del stock de productos disponibles.
 
-Logística y envío: Coordinación de la entrega de productos al cliente, incluyendo opciones de envío, seguimiento y gestión de devoluciones.
+* **Logística y envío:** Coordinación de la entrega de productos al cliente.
+
 
 
 **Diagrama entidad relación simple:**
