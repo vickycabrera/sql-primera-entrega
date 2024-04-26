@@ -1,0 +1,54 @@
+Para la instalacion correcta de la base de datos correspondiente al ecommerce, debes ingresar a la carpeta
+"sql_scripts" y luego debes ejecutar los siguientes script en el orden dado a continuación:
+(Para ejecutar el script seleccionar todas las lineas que incluye el archivo y tocar el boton Ejecutar)
+
+1 - Creación de tablas e inserción de datos:   
+ecommerce-tablas-inserciones.sql
+
+Crea la base de datos
+Crea la estructura de las tablas
+Crea la tabla de Auditoría
+Inserta 15 registros en cada tabla (Excepto en Auditoria)
+
+
+2 - Creación de vistas:    
+ecommerce_vistas.sql
+
+Crea 5 vistas de la base de datos.
+
+
+3 - Creación de funciones:
+ecommece_funciones.sql
+
+Crea 3 funciones que corresponden a la base de datos.
+
+
+4 - Creación de procedimientos: 
+ecommerce_procedimientos.sql
+
+Crea 2 procedimientos de la base de datos.
+
+
+5 - Creación de Triggers: 
+ecommerce_triggers.sql
+
+Crea 2 triggers para la base de datos.
+
+
+6 - DCL: 
+ecommerce_DCL.sql
+
+Creación de usuarios
+Otorga los permisos correspondientes para 3 usuarios con relación a la base de datos.
+
+
+8 - TCL: 
+ecommerce_TCL.sql
+
+Realiza un transacción, una sentencia de modificación hacia algunas tablas.
+
+
+**Se agrega un archivo adicional de respaldo, por cualquier eventualidad para realizar un backup de la base datos.
+En ese caso ejecutar el siguiente archivo:
+ecommerce_db_backup.sql
+(El backup incluye todas las tablas y vistas - solo estructura, sin datos)
