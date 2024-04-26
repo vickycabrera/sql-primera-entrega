@@ -35,12 +35,12 @@ El proyecto se basa en la implementación de un modelo de negocio centrado en la
 
 **Diagrama entidad relación simple:**
 
-![Diagrama entidad relación del ecommerce 1](/ecommerce-ERD-1.jpg?raw=true)
+![Diagrama entidad relación del ecommerce 1](/diagramas/ecommerce-ERD-1.jpg?raw=true)
 
 **Diagrama entidad relación con PKs, FKs y tipos de datos**
 
-![Diagrama entidad relación del ecommerce 2](/ecommerce-ERD-2.jpg?raw=true)
+![Diagrama entidad relación del ecommerce 2](/diagramas/ecommerce-ERD-2.jpg?raw=true)
 
 **Modelo de la base de datos en MySQL**
 
-![MySql ecommerce database model](/modelo-ecommerce-db.png?raw=true)
+![MySql ecommerce database model](/diagramas/modelo_der_ecommerce.png.png?raw=true)
