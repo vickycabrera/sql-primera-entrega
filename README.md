@@ -43,4 +43,4 @@ El proyecto se basa en la implementación de un modelo de negocio centrado en la
 
 **Modelo de la base de datos en MySQL**
 
-![MySql ecommerce database model](/diagramas/modelo_der_ecommerce.png.png?raw=true)
+![MySql ecommerce database model](/diagramas/modelo_der_ecommerce.png?raw=true)
